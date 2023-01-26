@@ -2,7 +2,7 @@
 
 ## Problem Statement 🤔
 
-WYou have been given a pile of ropes and the task is to combine them all into one final rope. However, when two ropes are connected together, one unit of length is lost from each rope. The goal is to determine the final length of the resulting rope after connecting all the ropes together in the most efficient way possible.
+You have been given a pile of ropes and the task is to combine them all into one final rope. However, when two ropes are connected together, one unit of length is lost from each rope. The goal is to determine the final length of the resulting rope after connecting all the ropes together in the most efficient way possible.
 
 ## Input Format 📥
 
@@ -12,7 +12,7 @@ WYou have been given a pile of ropes and the task is to combine them all into on
 
 ## Output Format 📤
 
-- or each test case, print a single integer representing the length of the final resulting rope.
+- For each test case, print a single integer representing the length of the final resulting rope.
 
 ## Example
 

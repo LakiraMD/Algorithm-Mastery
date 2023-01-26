@@ -6,7 +6,7 @@ Welcome to Algorithm Mastery! 🔥💻 A collection of solutions to various algo
 🏆💻 This section of the repository contains solutions to various algorithm problems that were part of programming competitions. These solutions are optimized for speed and efficiency 🚀, and are meant to provide a glimpse into the thought process of experienced competitive programmers.
 - NSSC-2014
 - NSSC-2015
-- NSSC-2019
+- [NSSC-2019](https://github.com/LakiraMD/Algorithm-Mastery/tree/main/Competitions/NSSC-2019)
 - NSSC-2022
 - and more
 

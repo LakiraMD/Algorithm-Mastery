@@ -33,7 +33,7 @@ The solution to this problem is based on the concept of recursive algorithm. The
 ## Resources 🔗
 
 - [Problem statement and test inputs/outputs](https://www.hackerrank.com/contests/nssc-2019/challenges/geeky-numbers)
-- [Sample solution in C++](https://github.com/LakiraMD/Algorithm-Mastery/Competitions/geeky-numbers.cpp)
+- [Sample solution in C++](https://github.com/LakiraMD/Algorithm-Mastery/blob/main/Competitions/NSSC-2019/geeky-numbers.cpp)
 
 ## Note 📝
 This problem is from National School Software Competition 2019 held in Sri lanka and is one of the examples of using recursion in problem solving.
